@@ -1,0 +1,13 @@
+langchain 
+transformers 
+datasets 
+peft
+accelerate 
+bitsandbytes 
+trl 
+safetensors 
+faiss-cpu 
+tiktoken 
+sentence_transformers 
+huggingface-hub
+xformers
