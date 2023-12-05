@@ -12,7 +12,7 @@ embedder = CacheBackedEmbeddings.from_bytes_store(
 import torch
 import transformers, accelerate
 
-model_id = "meta-llama/Llama-2-13b-chat-hf"
+model_id = "meta-llama/Llama-2-7b-chat-hf"
 token = "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"
 
 bnb_config = transformers.BitsAndBytesConfig(
